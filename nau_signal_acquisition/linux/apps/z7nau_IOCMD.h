@@ -1,10 +1,3 @@
-/*
- * z7nau_IOCMD.h
- *
- *  Created on: Apr 26, 2017
- *      Author: owbama
- */
-
 #ifndef Z7NAU_IOCMD_H_
 #define Z7NAU_IOCMD_H_
 
