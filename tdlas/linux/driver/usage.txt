@@ -1,0 +1,1 @@
+for two DMA controllers, each has one adc channel IP connected.
